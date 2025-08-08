@@ -61,7 +61,7 @@ rainy,75.0,80.0,false,yes
 
 
 ### PREPROCESSING
-### Procedure:
+###  Procedure:
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
